@@ -1,7 +1,5 @@
 # QDECR_vignettes
 
-This is the repo to my Github Pages site.
+This page contains vignettes to guide you through doing vertex-wise analyses using [`QDECR`](https://github.com/slamballais/QDECR)
 
-*** 
-
-I based the site off a template made by [@privefl](https://privefl.github.io/), which can be found [here](https://github.com/privefl/rmarkdown-website-template).
+UNDER CONSTRUCTION! WE WILL MAKE SURE THIS PAGE GOES UP FOR OHBM 2019!
