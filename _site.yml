@@ -1,23 +1,11 @@
 name: "Sander Lamballais"
 output_dir: "."
 navbar:
-  title: "Sander Lamballais"
+  title: "QDECR"
   type: inverse
   left:
-    - text: "About"
-      href: about.html
-    - text: "Work"
-      menu:
-        - text: "QDECR"
-          href: https://github.com/slamballais/QDECR
-        - text: "Publications"
-          href: https://www.ncbi.nlm.nih.gov/pubmed/?term=Lamballais%20S[Author]&cauthor_uid=30739809
-  right:
     - icon: fa-github
-      href: https://github.com/slamballais 
-    - icon: fa-twitter
-      href: https://twitter.com/slamballais
-
+      href: https://github.com/slamballais/QDECR
 output:
   html_document:
     theme: cosmo
