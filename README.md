@@ -1,4 +1,4 @@
-# slamballais.github.io
+# QDECR_vignettes
 
 This is the repo to my Github Pages site.
 
